@@ -9,7 +9,7 @@ title: flume
 #### ref:https://flume.apache.org/FlumeUserGuide.html#flume-sources
 #### **Spooling Directory Source**：^^a1.sources.src-1.type = spooldir^^
 ##### 监测并读取指定文件夹下的新增文件，并读取内容，准实时级别
-#### **Taildir Source**
+#### **Taildir Source**：^^a1.sources.r1.type = TAILDIR^^
 ##### 监测多个文件
 #### **Kafka Source**
 ##### 作为消费者，从Kafka的 **Topic** 读取数据
