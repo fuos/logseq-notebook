@@ -21,5 +21,5 @@ title: flume
 ##### events记录在内存缓冲区中，允许丢失
 #### **FileChannel**：^^a1.channels.c1.type = file^^
 ##### 使用基于本地磁盘的事务实现模式
-###
+####
 ##
