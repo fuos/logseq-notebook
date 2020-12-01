@@ -17,7 +17,7 @@ title: flume
 ##### 监听Avro端口并接受Event
 ##
 ### 🌌**channel**
-#### **MemoryChannel**：
+#### **MemoryChannel**：events记录在内存缓冲区中，^^a1.channels.c1.type = memory^^
 #####
 #### **FileChannel**：
 ##### 使用基于本地磁盘的事务实现模式
