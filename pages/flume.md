@@ -16,6 +16,6 @@ title: flume
 #### **Avro Source**：^^a1.sources.r1.type = avro^^
 ##### 监听Avro端口并接受Event
 ##
-### channel
+### 🌌**channel**
 ###
 ##
