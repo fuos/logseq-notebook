@@ -6,7 +6,7 @@ title: flume
 ## 配置方面：TailDir source + File channel + HDFS sink
 ## 常见配置项：
 ### 🌌**source**
-#### **Spooling Directory Source**： ^^a1.sources.r1.type=spooldir^^
+#### **Spooling Directory Source**： ^^a1.sources.src-1.type = spooldir^^
 ##### 监测并读取指定文件夹下的新增文件内容，实现准实时级别
 ####
 #### **Kafka Source**：
