@@ -15,6 +15,7 @@ title: flume
 ##### 作为消费者，从Kafka的 **Topic** 读取数据
 #### **Avro Source**：^^a1.sources.r1.type = avro^^
 ##### 监听Avro端口并接受Event
+##
 ### channel
 ###
 ##
