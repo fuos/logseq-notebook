@@ -9,6 +9,7 @@ title: flume
 #### **Spooling Directory Source**：^^a1.sources.src-1.type = spooldir^^
 ##### 监测并读取指定文件夹下的新增文件内容，实现准实时级别
 #### **Taildir Source**
+#####
 #### **Kafka Source**
 ##### 作为消费者，从Kafka的 **Topic** 读取数据
 #### **Avro Source**：^^a1.sources.r1.type = avro^^
