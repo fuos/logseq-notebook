@@ -2,10 +2,10 @@
 title: flume
 ---
 
-## DOING flume如何保证数据不丢失？
+## DONE flume如何保证数据不丢失？
 :PROPERTIES:
 :todo: 1606813819029
-:done: 1606813818613
+:done: 1606813831437
 :END:
 ## 配置方面：TailDir source + File channel + HDFS sink
 ## 常见配置项：
