@@ -2,5 +2,5 @@
 title: kafka
 ---
 
-## kafka不同版本特性：
+## kafka不同版本特性
 ##
