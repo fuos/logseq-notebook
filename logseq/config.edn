@@ -49,4 +49,5 @@
     :collapsed? false}]},
  :git-push-secs 10, 
  :git-auto-push true, 
- :journal-basis "daily"}
+ :journal-basis "daily"
+ :feature/enable-journals? false}
