@@ -50,4 +50,5 @@
  :git-push-secs 10, 
  :git-auto-push true, 
  :journal-basis "daily"
- :feature/enable-journals? false}
+ :feature/enable-journals? false
+ :default-home {}}
